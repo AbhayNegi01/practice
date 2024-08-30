@@ -1,1 +1,2 @@
-file one in third folder.
+file one in third folder. 
+added another line and commit it.
