@@ -1,2 +1,4 @@
 file one in third folder. 
 added another line and commit it.
+added second line and commit it.
+added third line and commit it.
